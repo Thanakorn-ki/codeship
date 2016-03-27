@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/salapao2136/codeship.git"
   },
-  "author": "",
+  "author": "", 
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/salapao2136/codeship/issues"
