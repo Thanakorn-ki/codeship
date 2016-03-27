@@ -1,0 +1,22 @@
+{
+  "name": "codeship",
+  "version": "1.0.0",
+  "description": "\"# codeship\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salapao2136/codeship.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salapao2136/codeship/issues"
+  },
+  "homepage": "https://github.com/salapao2136/codeship#readme",
+  "dependencies": {
+    "chai": "^3.5.0"
+  }
+}
